@@ -1,1 +1,1 @@
-OpenSUSE Tumbleweed Setup Scripts
+<b>OpenSUSE Tumbleweed Setup Scripts</b>
